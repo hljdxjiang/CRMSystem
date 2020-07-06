@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{CE49B420-3178-4E14-B75F-F1488850759A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CRMSystem/Controllers/OrderController.cs">
+    <Files>
+      <File FileName="CRMSystem/Helper/TokenHelper.cs" Line="85" Column="1" />
+      <File FileName="CRMSystem/Controllers/TokenController.cs" Line="130" Column="83" />
+      <File FileName="CRMSystem/Controllers/CourseController.cs" Line="205" Column="12" />
+      <File FileName="CRMSystem/Controllers/OrderController.cs" Line="81" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CRMSystem" expanded="True">
+            <Node name="CRMSystem" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="OrderController.cs" selected="True" />
+              </Node>
+              <Node name="DTOModels" expanded="True" />
+              <Node name="Helper" expanded="True" />
+            </Node>
+            <Node name="JHC.DbManager" expanded="True">
+              <Node name="JHC.DataManager" expanded="True" />
+            </Node>
+            <Node name="JHC.ToolKit" expanded="True">
+              <Node name="Base" expanded="True">
+                <Node name="Enum" expanded="True" />
+              </Node>
+              <Node name="Extensions" expanded="True" />
+            </Node>
+            <Node name="JwtTest" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Logger" expanded="True" />
+            <Node name="TestApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConsoleTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CRMSystem PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../CRMSystem/Filters/MyAuthorizationFilter.cs" line="3" column="40" endLine="3" endColumn="58" offsetX="-1" offsetY="-1" expression="AuthorizeAttribute" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <DisabledProjects>
+    <String>DBManager/DBManager.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/df/program/C#/CRMSystem/ConsoleTest/Program.cs" relfile="ConsoleTest/Program.cs" line="19" column="1" />
+      <Breakpoint file="/Users/df/program/C#/CRMSystem/JHC.DataManager/JHC.DataManager/DapperHelpers.cs" relfile="JHC.DataManager/JHC.DataManager/DapperHelpers.cs" line="15" column="1" />
+      <Breakpoint file="/Users/df/program/C#/CRMSystem/CRMSystem/Filters/MyAuthorization.cs" relfile="CRMSystem/Filters/MyAuthorization.cs" line="24" column="1" />
+      <Breakpoint file="/Users/df/program/C#/CRMSystem/CRMSystem/Controllers/GroupController.cs" relfile="CRMSystem/Controllers/GroupController.cs" line="57" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
