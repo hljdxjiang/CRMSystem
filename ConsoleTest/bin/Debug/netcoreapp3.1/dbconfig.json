@@ -1,0 +1,13 @@
+﻿{
+  "dbManager": [
+    {
+      "id": "mysql.reader",
+      "uname": "jhc",
+      "ctype": "mysql",
+      "ip": "127.0.0.1",
+      "port": "3306",
+      "passwd": "jhc",
+      "instance": "jhc"
+    }
+  ]
+}

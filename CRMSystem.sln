@@ -1,0 +1,53 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMSystem", "CRMSystem\CRMSystem.csproj", "{CE49B420-3178-4E14-B75F-F1488850759A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "Logger\Logger.csproj", "{CB0C0716-B5B4-4C02-88E3-708CD508A5ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{4E0448B1-435D-48DC-B0F3-FA08855CCF4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JHC.DbManager", "JHC.DataManager\JHC.DbManager.csproj", "{E412BE63-D3E7-4520-AF96-6DEE8AB3E17A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApi", "TestApi\TestApi.csproj", "{26A36F3F-DFDC-4E91-98DE-1114F9017B1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JHC.ToolKit", "JHC.ToolKit\JHC.ToolKit.csproj", "{3B68EAC0-7493-46F5-AEAC-9CC9E843FE80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtTest", "JwtTest\JwtTest.csproj", "{DE064F62-0DCF-461E-988A-8ECD2B34B9B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE49B420-3178-4E14-B75F-F1488850759A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE49B420-3178-4E14-B75F-F1488850759A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE49B420-3178-4E14-B75F-F1488850759A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE49B420-3178-4E14-B75F-F1488850759A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB0C0716-B5B4-4C02-88E3-708CD508A5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB0C0716-B5B4-4C02-88E3-708CD508A5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB0C0716-B5B4-4C02-88E3-708CD508A5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB0C0716-B5B4-4C02-88E3-708CD508A5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0448B1-435D-48DC-B0F3-FA08855CCF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0448B1-435D-48DC-B0F3-FA08855CCF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0448B1-435D-48DC-B0F3-FA08855CCF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0448B1-435D-48DC-B0F3-FA08855CCF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E412BE63-D3E7-4520-AF96-6DEE8AB3E17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E412BE63-D3E7-4520-AF96-6DEE8AB3E17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E412BE63-D3E7-4520-AF96-6DEE8AB3E17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E412BE63-D3E7-4520-AF96-6DEE8AB3E17A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26A36F3F-DFDC-4E91-98DE-1114F9017B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A36F3F-DFDC-4E91-98DE-1114F9017B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A36F3F-DFDC-4E91-98DE-1114F9017B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A36F3F-DFDC-4E91-98DE-1114F9017B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B68EAC0-7493-46F5-AEAC-9CC9E843FE80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B68EAC0-7493-46F5-AEAC-9CC9E843FE80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B68EAC0-7493-46F5-AEAC-9CC9E843FE80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B68EAC0-7493-46F5-AEAC-9CC9E843FE80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE064F62-0DCF-461E-988A-8ECD2B34B9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE064F62-0DCF-461E-988A-8ECD2B34B9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE064F62-0DCF-461E-988A-8ECD2B34B9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE064F62-0DCF-461E-988A-8ECD2B34B9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

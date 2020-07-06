@@ -1,0 +1,9 @@
+/Users/df/program/C#/CRMSystem/JHC.ToolKit/bin/Debug/netcoreapp3.1/JHC.ToolKit.deps.json
+/Users/df/program/C#/CRMSystem/JHC.ToolKit/bin/Debug/netcoreapp3.1/JHC.ToolKit.dll
+/Users/df/program/C#/CRMSystem/JHC.ToolKit/bin/Debug/netcoreapp3.1/JHC.ToolKit.pdb
+/Users/df/program/C#/CRMSystem/JHC.ToolKit/obj/Debug/netcoreapp3.1/JHC.ToolKit.csprojAssemblyReference.cache
+/Users/df/program/C#/CRMSystem/JHC.ToolKit/obj/Debug/netcoreapp3.1/JHC.ToolKit.AssemblyInfoInputs.cache
+/Users/df/program/C#/CRMSystem/JHC.ToolKit/obj/Debug/netcoreapp3.1/JHC.ToolKit.AssemblyInfo.cs
+/Users/df/program/C#/CRMSystem/JHC.ToolKit/obj/Debug/netcoreapp3.1/JHC.ToolKit.csproj.CoreCompileInputs.cache
+/Users/df/program/C#/CRMSystem/JHC.ToolKit/obj/Debug/netcoreapp3.1/JHC.ToolKit.dll
+/Users/df/program/C#/CRMSystem/JHC.ToolKit/obj/Debug/netcoreapp3.1/JHC.ToolKit.pdb

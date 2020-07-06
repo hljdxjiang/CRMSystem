@@ -1,0 +1,9 @@
+/Users/df/program/C#/CRMSystem/Logger/bin/Debug/netcoreapp3.1/Logger.deps.json
+/Users/df/program/C#/CRMSystem/Logger/bin/Debug/netcoreapp3.1/Logger.dll
+/Users/df/program/C#/CRMSystem/Logger/bin/Debug/netcoreapp3.1/Logger.pdb
+/Users/df/program/C#/CRMSystem/Logger/obj/Debug/netcoreapp3.1/Logger.csprojAssemblyReference.cache
+/Users/df/program/C#/CRMSystem/Logger/obj/Debug/netcoreapp3.1/Logger.AssemblyInfoInputs.cache
+/Users/df/program/C#/CRMSystem/Logger/obj/Debug/netcoreapp3.1/Logger.AssemblyInfo.cs
+/Users/df/program/C#/CRMSystem/Logger/obj/Debug/netcoreapp3.1/Logger.csproj.CoreCompileInputs.cache
+/Users/df/program/C#/CRMSystem/Logger/obj/Debug/netcoreapp3.1/Logger.dll
+/Users/df/program/C#/CRMSystem/Logger/obj/Debug/netcoreapp3.1/Logger.pdb

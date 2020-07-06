@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "dgSpecHash": "saWU4359FsqDs/83Lel2DuJV6r05WMLZu8Jh1Gx4xXOMA9pLYKACEUakt704uJC7pLy0wu6oyKC94GG908Nxiw==",
+  "success": false,
+  "projectFilePath": "/Users/df/program/C#/CRMSystem/Logger/Logger.csproj",
+  "expectedPackageFiles": [
+    "/Users/df/.nuget/packages/microsoft.aspnetcore.http/2.2.2/microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.webutilities/2.2.0/microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
+    "/Users/df/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.5/microsoft.extensions.caching.abstractions.3.1.5.nupkg.sha512",
+    "/Users/df/.nuget/packages/microsoft.extensions.caching.memory/3.1.5/microsoft.extensions.caching.memory.3.1.5.nupkg.sha512",
+    "/Users/df/.nuget/packages/microsoft.extensions.configuration/3.1.5/microsoft.extensions.configuration.3.1.5.nupkg.sha512",
+    "/Users/df/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.4/microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "/Users/df/.nuget/packages/microsoft.extensions.configuration.binder/3.1.5/microsoft.extensions.configuration.binder.3.1.5.nupkg.sha512",
+    "/Users/df/.nuget/packages/microsoft.extensions.configuration.fileextensions/3.1.5/microsoft.extensions.configuration.fileextensions.3.1.5.nupkg.sha512",
+    "/Users/df/.nuget/packages/microsoft.extensions.configuration.json/3.1.5/microsoft.extensions.configuration.json.3.1.5.nupkg.sha512",
+    "/Users/df/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.4/microsoft.extensions.dependencyinjection.3.1.4.nupkg.sha512",
+    "/Users/df/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.5/microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "/Users/df/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.5/microsoft.extensions.fileproviders.abstractions.3.1.5.nupkg.sha512",
+    "/Users/df/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.5/microsoft.extensions.fileproviders.physical.3.1.5.nupkg.sha512",
+    "/Users/df/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.5/microsoft.extensions.filesystemglobbing.3.1.5.nupkg.sha512",
+    "/Users/df/.nuget/packages/microsoft.extensions.logging/3.1.4/microsoft.extensions.logging.3.1.4.nupkg.sha512",
+    "/Users/df/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.4/microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.extensions.objectpool/2.2.0/microsoft.extensions.objectpool.2.2.0.nupkg.sha512",
+    "/Users/df/.nuget/packages/microsoft.extensions.options/3.1.5/microsoft.extensions.options.3.1.5.nupkg.sha512",
+    "/Users/df/.nuget/packages/microsoft.extensions.primitives/3.1.5/microsoft.extensions.primitives.3.1.5.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.net.http.headers/2.2.0/microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "/Users/df/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/df/.nuget/packages/nodatime/3.0.0/nodatime.3.0.0.nupkg.sha512",
+    "/Users/df/.nuget/packages/sixlabors.imagesharp/1.0.0-rc0002/sixlabors.imagesharp.1.0.0-rc0002.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
+    "/Users/df/.nuget/packages/system.runtime.compilerservices.unsafe/4.7.1/system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Detected package downgrade: Microsoft.Extensions.Logging.Abstractions from 3.1.5 to 3.1.4. Reference the package directly from the project to select a different version. \n Logger -> JHC.ToolKit -> Microsoft.Extensions.Caching.Memory 3.1.5 -> Microsoft.Extensions.Logging.Abstractions (>= 3.1.5) \n Logger -> Microsoft.Extensions.Logging.Abstractions (>= 3.1.4)",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Detected package downgrade: Microsoft.Extensions.Configuration.Abstractions from 3.1.5 to 3.1.4. Reference the package directly from the project to select a different version. \n Logger -> JHC.ToolKit -> Microsoft.Extensions.Configuration 3.1.5 -> Microsoft.Extensions.Configuration.Abstractions (>= 3.1.5) \n Logger -> Microsoft.Extensions.Configuration.Abstractions (>= 3.1.4)",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
