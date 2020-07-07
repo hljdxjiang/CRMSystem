@@ -112,3 +112,4 @@
 /Users/df/program/C#/CRMSystem/CRMSystem/obj/Debug/netcoreapp3.1/CRMSystem.dll
 /Users/df/program/C#/CRMSystem/CRMSystem/obj/Debug/netcoreapp3.1/CRMSystem.pdb
 /Users/df/program/C#/CRMSystem/CRMSystem/obj/Debug/netcoreapp3.1/CRMSystem.genruntimeconfig.cache
+/Users/df/program/C#/CRMSystem/CRMSystem/obj/Debug/netcoreapp3.1/CRMSystem.csprojAssemblyReference.cache

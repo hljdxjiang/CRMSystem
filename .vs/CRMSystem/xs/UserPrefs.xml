@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="CRMSystem/Controllers/OrderController.cs">
     <Files>
       <File FileName="CRMSystem/Helper/TokenHelper.cs" Line="85" Column="1" />
-      <File FileName="CRMSystem/Controllers/TokenController.cs" Line="130" Column="83" />
-      <File FileName="CRMSystem/Controllers/CourseController.cs" Line="205" Column="12" />
+      <File FileName="CRMSystem/Controllers/TokenController.cs" />
+      <File FileName="CRMSystem/Controllers/CourseController.cs" />
       <File FileName="CRMSystem/Controllers/OrderController.cs" Line="81" Column="1" />
     </Files>
     <Pads>
